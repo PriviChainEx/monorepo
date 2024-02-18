@@ -40,8 +40,8 @@ A central authority is responsible for overseeing and validating the trading pro
 
 #### Zk Implementation:- 
 Both the Seller and Buyer sides have integrated and deployed Zero-Knowledge Proofs and validation contracts on the Scroll platform :- 
-- 0xA2776632E9B9555B5aCFcd7e9bb543Aa4bd71ABB
-- 0x1e888A5312C5830b1804baf120Fe0b1061cfa287
+- [0x817fd48a00fa44bb2444e50a3c96ce7176d28fe1](https://sepolia.scrollscan.com/address/0x817fd48a00fa44bb2444e50a3c96ce7176d28fe1#code)
+- [0x966cdb09959bb709121b93eccba4b369162ba24](https://sepolia.scrollscan.com/address/0x966cdb09959bb709121b93eccba4b369162ba247#code)
 
 
 
