@@ -1,0 +1,4 @@
+current_balance = "100"
+new_balance = "105"
+receiver_chainID = "5"
+token_value = "5"
