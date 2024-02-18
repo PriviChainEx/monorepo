@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #000921;
+}
+
+.nav__links{
+    color:white;
+}
+
+.connect__button{
+    width:  131px;
+    height: 32px;
+    padding: 18px, 16px, 18px, 16px;
+    border-radius: 9px;
+    border: 0.25px;
+    gap: 10px;
+    background-color: #06E7ED;
+    color:#191235;
+    font-size: 16px;
+    font-weight: 500;
+    
+
+}

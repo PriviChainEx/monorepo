@@ -1,0 +1,54 @@
+.limit{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    color:white;
+    gap:16px;
+    padding:0.5rem;
+}
+
+.price__input{
+    width: 100%;
+    height: 40px;
+    background-color: #000F3766;
+    border-radius: 8px;
+    outline:none;
+    margin-top: 12px;
+    color: white;
+}
+
+.buy__button{
+    width:200px;
+height:30px;
+padding: 18px, 16px, 18px, 16px;
+border-radius: 9px;
+gap: 10px;
+    background-color: #06E7ED;
+    font-weight: 600;
+}
+
+.market__container{
+    background-color: #092879;
+    width: 100%;
+    height: 40px;
+    margin-top: 8px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap:16px;
+}
+
+/* Assuming the class name for the Input component is "inputClassName" */
+.inputClassName input::placeholder {
+    color: white;
+  }
+  
+  .inputClassName label {
+    color: white;
+  }
+
+  .inputClassName{
+    margin-bottom: 8px;
+    margin-top: 8px;
+  }
+  
