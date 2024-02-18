@@ -1,0 +1,5 @@
+{ "state": {
+    "collateralAssets": 0,
+    "chainIDs": [1, 2, 3],
+    "tokenisedAssets": [[1, [2, 5, 3]], [4, [5, 8, 3]], [7, [2, 4, 8]]]
+} }
